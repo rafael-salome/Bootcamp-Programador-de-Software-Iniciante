@@ -1,2 +1,2 @@
-# Bootcamp-Programador-de-Software-Iniciante
+# IGTI_Bootcamp-Programador-de-Software-Iniciante
 Conceitos fundamentais de lógica de programação.
